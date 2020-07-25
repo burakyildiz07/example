@@ -1,0 +1,22 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+@import "node_modules/font-awesome/scss/font-awesome.scss";
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+body{
+    background-color: $body-bg;
+}
+
+.main{
+    padding: 15px;
+    width: 100%;
+}
+
+
+
